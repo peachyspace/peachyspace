@@ -9,6 +9,8 @@
 <p><small>However, this sentiment changed once I started coding. Some parts of programing are complex but as long as I take the time to find good resources I would be able to simplify a complex concept. This realization has allowed me to go from building a static website to building  fullstack applications. </small> </p>
 </body>
 
+#
+
 ## 🛠Languages and Technologies
 
 <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width="260" align="right">
